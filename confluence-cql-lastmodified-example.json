@@ -1,0 +1,228 @@
+{
+    "results": [
+        {
+            "id": "2089654321",
+            "type": "page",
+            "status": "current",
+            "title": "2024 Q4 Product Roadmap - Sprint Planning",
+            "space": {
+                "id": 123456789,
+                "key": "PROD",
+                "name": "Product Development Hub",
+                "status": "current",
+                "type": "global",
+                "creator": {
+                    "type": "known",
+                    "username": "john.smith",
+                    "userKey": "user-key-abc123",
+                    "displayName": "John Smith",
+                    "_links": {
+                        "self": "https://confluence.example.com/rest/api/user?key=user-key-abc123"
+                    },
+                    "_expandable": {
+                        "profilePicture": "",
+                        "status": ""
+                    }
+                },
+                "creationDate": "2024-01-15T10:30:00.000Z",
+                "lastModifier": {
+                    "type": "known",
+                    "username": "sarah.johnson",
+                    "userKey": "user-key-def456",
+                    "displayName": "Sarah Johnson",
+                    "_links": {
+                        "self": "https://confluence.example.com/rest/api/user?key=user-key-def456"
+                    },
+                    "_expandable": {
+                        "profilePicture": "",
+                        "status": ""
+                    }
+                },
+                "lastModificationDate": "2024-12-01T14:25:30.500Z",
+                "_links": {
+                    "webui": "/spaces/PROD/overview",
+                    "self": "https://confluence.example.com/rest/api/space/PROD"
+                },
+                "_expandable": {
+                    "metadata": "",
+                    "permissions": "",
+                    "icon": "",
+                    "description": "",
+                    "retentionPolicy": "",
+                    "homepage": "/rest/api/content/987654321"
+                }
+            },
+            "history": {
+                "latest": true,
+                "createdBy": {
+                    "type": "known",
+                    "username": "mike.wilson",
+                    "userKey": "user-key-ghi789",
+                    "profilePicture": {
+                        "path": "/download/attachments/12345/user-avatar",
+                        "width": 48,
+                        "height": 48,
+                        "isDefault": false
+                    },
+                    "displayName": "Mike Wilson",
+                    "_links": {
+                        "self": "https://confluence.example.com/rest/api/user?key=user-key-ghi789"
+                    },
+                    "_expandable": {
+                        "status": ""
+                    }
+                },
+                "createdDate": "2024-10-20T09:15:45.200Z",
+                "_links": {
+                    "self": "https://confluence.example.com/rest/api/content/2089654321/history"
+                },
+                "_expandable": {
+                    "lastUpdated": "",
+                    "previousVersion": "",
+                    "contributors": "",
+                    "nextVersion": ""
+                }
+            },
+            "position": 5,
+            "extensions": {
+                "position": 5
+            },
+            "_links": {
+                "webui": "/spaces/PROD/pages/2089654321/2024+Q4+Product+Roadmap",
+                "edit": "/pages/resumedraft.action?draftId=2089654321",
+                "tinyui": "/x/AbCdE",
+                "self": "https://confluence.example.com/rest/api/content/2089654321"
+            },
+            "_expandable": {
+                "container": "/rest/api/space/PROD",
+                "metadata": "",
+                "operations": "",
+                "children": "/rest/api/content/2089654321/child",
+                "restrictions": "/rest/api/content/2089654321/restriction/byOperation",
+                "ancestors": "",
+                "body": "",
+                "version": "",
+                "descendants": "/rest/api/content/2089654321/descendant",
+                "relevantViewRestrictions": "/rest/api/content/2089654321/restriction/relevantViewRestrictions"
+            }
+        },
+        {
+            "id": "2089654322",
+            "type": "page",
+            "status": "current",
+            "title": "2024 Q3 Sprint Retrospective - Team Alpha",
+            "space": {
+                "id": 123456789,
+                "key": "PROD",
+                "name": "Product Development Hub",
+                "status": "current",
+                "type": "global",
+                "creator": {
+                    "type": "known",
+                    "username": "john.smith",
+                    "userKey": "user-key-abc123",
+                    "displayName": "John Smith",
+                    "_links": {
+                        "self": "https://confluence.example.com/rest/api/user?key=user-key-abc123"
+                    },
+                    "_expandable": {
+                        "profilePicture": "",
+                        "status": ""
+                    }
+                },
+                "creationDate": "2024-01-15T10:30:00.000Z",
+                "lastModifier": {
+                    "type": "known",
+                    "username": "sarah.johnson",
+                    "userKey": "user-key-def456",
+                    "displayName": "Sarah Johnson",
+                    "_links": {
+                        "self": "https://confluence.example.com/rest/api/user?key=user-key-def456"
+                    },
+                    "_expandable": {
+                        "profilePicture": "",
+                        "status": ""
+                    }
+                },
+                "lastModificationDate": "2024-12-01T14:25:30.500Z",
+                "_links": {
+                    "webui": "/spaces/PROD/overview",
+                    "self": "https://confluence.example.com/rest/api/space/PROD"
+                },
+                "_expandable": {
+                    "metadata": "",
+                    "permissions": "",
+                    "icon": "",
+                    "description": "",
+                    "retentionPolicy": "",
+                    "homepage": "/rest/api/content/987654321"
+                }
+            },
+            "history": {
+                "latest": true,
+                "createdBy": {
+                    "type": "known",
+                    "username": "mike.wilson",
+                    "userKey": "user-key-ghi789",
+                    "profilePicture": {
+                        "path": "/download/attachments/12345/user-avatar",
+                        "width": 48,
+                        "height": 48,
+                        "isDefault": false
+                    },
+                    "displayName": "Mike Wilson",
+                    "_links": {
+                        "self": "https://confluence.example.com/rest/api/user?key=user-key-ghi789"
+                    },
+                    "_expandable": {
+                        "status": ""
+                    }
+                },
+                "createdDate": "2024-09-25T16:45:20.100Z",
+                "_links": {
+                    "self": "https://confluence.example.com/rest/api/content/2089654322/history"
+                },
+                "_expandable": {
+                    "lastUpdated": "",
+                    "previousVersion": "",
+                    "contributors": "",
+                    "nextVersion": ""
+                }
+            },
+            "position": 12,
+            "extensions": {
+                "position": 12
+            },
+            "_links": {
+                "webui": "/spaces/PROD/pages/2089654322/2024+Q3+Sprint+Retrospective",
+                "edit": "/pages/resumedraft.action?draftId=2089654322",
+                "tinyui": "/x/FgHiJ",
+                "self": "https://confluence.example.com/rest/api/content/2089654322"
+            },
+            "_expandable": {
+                "container": "/rest/api/space/PROD",
+                "metadata": "",
+                "operations": "",
+                "children": "/rest/api/content/2089654322/child",
+                "restrictions": "/rest/api/content/2089654322/restriction/byOperation",
+                "ancestors": "",
+                "body": "",
+                "version": "",
+                "descendants": "/rest/api/content/2089654322/descendant",
+                "relevantViewRestrictions": "/rest/api/content/2089654322/restriction/relevantViewRestrictions"
+            }
+        }
+    ],
+    "start": 0,
+    "limit": 2,
+    "size": 2,
+    "cqlQuery": "space = PROD and type = page",
+    "searchDuration": 45,
+    "totalSize": 847,
+    "_links": {
+        "self": "https://confluence.example.com/rest/api/content/search?expand=space%2Chistory&cql=space%20%3D%20PROD%20and%20type%20%3D%20page",
+        "next": "/rest/api/content/search?expand=space%2Chistory&limit=2&start=2&cql=space%20%3D%20PROD%20and%20type%20%3D%20page",
+        "base": "https://confluence.example.com",
+        "context": ""
+    }
+}
